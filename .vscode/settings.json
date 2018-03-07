@@ -3,6 +3,17 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "xutility": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp"
     }
 }
